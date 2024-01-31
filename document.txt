@@ -4,4 +4,12 @@
 4. Run application : npm run start
 5. rerun the app whenever you modify the application
 6. Install dotenv : npm i dotenv
-7. create .env file
+7. create .env file and add secrete values here
+8. Create a .gitignore file and add private files here
+9. Create a new repo at github and push the local repo to remote using following steps:
+    - git init
+    - git add .
+    - git commit -m "first commit"
+    - git branch -M main 
+    - git remote add origin https://github.com/Nagamma06/apptodeploy.git
+    - git push -u origin main
